@@ -13,7 +13,7 @@ Neste projeto, o desafio é construir esta página de visualização de produto 
 <img src="./design/desktop-preview.jpg" alt="Preview" width="600" />
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Visualização de Produto]()
+Acesse o resultado final do desafio clicando em [Visualização de Produto](https://front-end-mentor-visualizacao-de-pr.vercel.app)
 
 ## Tecnologias Usadas
 - Html
